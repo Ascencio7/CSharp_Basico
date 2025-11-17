@@ -1,0 +1,8 @@
+C:\Users\Vladimir Ascencio\OneDrive\Escritorio\Gestor Estudiantes\Gestor_Estudiante\bin\Debug\Gestor_Estudiante.exe.config
+C:\Users\Vladimir Ascencio\OneDrive\Escritorio\Gestor Estudiantes\Gestor_Estudiante\bin\Debug\Gestor_Estudiante.exe
+C:\Users\Vladimir Ascencio\OneDrive\Escritorio\Gestor Estudiantes\Gestor_Estudiante\bin\Debug\Gestor_Estudiante.pdb
+C:\Users\Vladimir Ascencio\OneDrive\Escritorio\Gestor Estudiantes\Gestor_Estudiante\obj\Debug\Gestor_Estudiante.csproj.AssemblyReference.cache
+C:\Users\Vladimir Ascencio\OneDrive\Escritorio\Gestor Estudiantes\Gestor_Estudiante\obj\Debug\Gestor_Estudiante.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Ascencio\OneDrive\Escritorio\Gestor Estudiantes\Gestor_Estudiante\obj\Debug\Gestor_Estudiante.exe
+C:\Users\Vladimir Ascencio\OneDrive\Escritorio\Gestor Estudiantes\Gestor_Estudiante\obj\Debug\Gestor_Estudiante.pdb
+C:\Users\Vladimir Ascencio\OneDrive\Escritorio\Gestor Estudiantes\Gestor_Estudiante\obj\Debug\Gestor_Estudiante.exe.config
