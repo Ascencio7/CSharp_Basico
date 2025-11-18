@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "moneda_conversor/1.0.0": {
+        "runtime": {
+          "moneda_conversor.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "moneda_conversor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

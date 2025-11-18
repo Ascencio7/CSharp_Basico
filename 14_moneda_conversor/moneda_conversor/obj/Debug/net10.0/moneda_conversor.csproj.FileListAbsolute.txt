@@ -1,0 +1,14 @@
+C:\Users\Vladimir Ascencio\OneDrive\Escritorio\14_moneda_conversor\moneda_conversor\bin\Debug\net10.0\moneda_conversor.exe
+C:\Users\Vladimir Ascencio\OneDrive\Escritorio\14_moneda_conversor\moneda_conversor\bin\Debug\net10.0\moneda_conversor.deps.json
+C:\Users\Vladimir Ascencio\OneDrive\Escritorio\14_moneda_conversor\moneda_conversor\bin\Debug\net10.0\moneda_conversor.runtimeconfig.json
+C:\Users\Vladimir Ascencio\OneDrive\Escritorio\14_moneda_conversor\moneda_conversor\bin\Debug\net10.0\moneda_conversor.dll
+C:\Users\Vladimir Ascencio\OneDrive\Escritorio\14_moneda_conversor\moneda_conversor\bin\Debug\net10.0\moneda_conversor.pdb
+C:\Users\Vladimir Ascencio\OneDrive\Escritorio\14_moneda_conversor\moneda_conversor\obj\Debug\net10.0\moneda_conversor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vladimir Ascencio\OneDrive\Escritorio\14_moneda_conversor\moneda_conversor\obj\Debug\net10.0\moneda_conversor.AssemblyInfoInputs.cache
+C:\Users\Vladimir Ascencio\OneDrive\Escritorio\14_moneda_conversor\moneda_conversor\obj\Debug\net10.0\moneda_conversor.AssemblyInfo.cs
+C:\Users\Vladimir Ascencio\OneDrive\Escritorio\14_moneda_conversor\moneda_conversor\obj\Debug\net10.0\moneda_conversor.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Ascencio\OneDrive\Escritorio\14_moneda_conversor\moneda_conversor\obj\Debug\net10.0\moneda_conversor.dll
+C:\Users\Vladimir Ascencio\OneDrive\Escritorio\14_moneda_conversor\moneda_conversor\obj\Debug\net10.0\refint\moneda_conversor.dll
+C:\Users\Vladimir Ascencio\OneDrive\Escritorio\14_moneda_conversor\moneda_conversor\obj\Debug\net10.0\moneda_conversor.pdb
+C:\Users\Vladimir Ascencio\OneDrive\Escritorio\14_moneda_conversor\moneda_conversor\obj\Debug\net10.0\moneda_conversor.genruntimeconfig.cache
+C:\Users\Vladimir Ascencio\OneDrive\Escritorio\14_moneda_conversor\moneda_conversor\obj\Debug\net10.0\ref\moneda_conversor.dll
