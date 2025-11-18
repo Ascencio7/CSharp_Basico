@@ -1,0 +1,14 @@
+C:\Users\Vladimir Ascencio\OneDrive\Escritorio\13_Dias_Semana\dias_semana\bin\Debug\net10.0\dias_semana.exe
+C:\Users\Vladimir Ascencio\OneDrive\Escritorio\13_Dias_Semana\dias_semana\bin\Debug\net10.0\dias_semana.deps.json
+C:\Users\Vladimir Ascencio\OneDrive\Escritorio\13_Dias_Semana\dias_semana\bin\Debug\net10.0\dias_semana.runtimeconfig.json
+C:\Users\Vladimir Ascencio\OneDrive\Escritorio\13_Dias_Semana\dias_semana\bin\Debug\net10.0\dias_semana.dll
+C:\Users\Vladimir Ascencio\OneDrive\Escritorio\13_Dias_Semana\dias_semana\bin\Debug\net10.0\dias_semana.pdb
+C:\Users\Vladimir Ascencio\OneDrive\Escritorio\13_Dias_Semana\dias_semana\obj\Debug\net10.0\dias_semana.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vladimir Ascencio\OneDrive\Escritorio\13_Dias_Semana\dias_semana\obj\Debug\net10.0\dias_semana.AssemblyInfoInputs.cache
+C:\Users\Vladimir Ascencio\OneDrive\Escritorio\13_Dias_Semana\dias_semana\obj\Debug\net10.0\dias_semana.AssemblyInfo.cs
+C:\Users\Vladimir Ascencio\OneDrive\Escritorio\13_Dias_Semana\dias_semana\obj\Debug\net10.0\dias_semana.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Ascencio\OneDrive\Escritorio\13_Dias_Semana\dias_semana\obj\Debug\net10.0\dias_semana.dll
+C:\Users\Vladimir Ascencio\OneDrive\Escritorio\13_Dias_Semana\dias_semana\obj\Debug\net10.0\refint\dias_semana.dll
+C:\Users\Vladimir Ascencio\OneDrive\Escritorio\13_Dias_Semana\dias_semana\obj\Debug\net10.0\dias_semana.pdb
+C:\Users\Vladimir Ascencio\OneDrive\Escritorio\13_Dias_Semana\dias_semana\obj\Debug\net10.0\dias_semana.genruntimeconfig.cache
+C:\Users\Vladimir Ascencio\OneDrive\Escritorio\13_Dias_Semana\dias_semana\obj\Debug\net10.0\ref\dias_semana.dll
