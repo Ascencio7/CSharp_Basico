@@ -1,0 +1,14 @@
+C:\Users\Vladimir Ascencio\OneDrive\Escritorio\12_votar_condicion\votar\bin\Debug\net10.0\votar.exe
+C:\Users\Vladimir Ascencio\OneDrive\Escritorio\12_votar_condicion\votar\bin\Debug\net10.0\votar.deps.json
+C:\Users\Vladimir Ascencio\OneDrive\Escritorio\12_votar_condicion\votar\bin\Debug\net10.0\votar.runtimeconfig.json
+C:\Users\Vladimir Ascencio\OneDrive\Escritorio\12_votar_condicion\votar\bin\Debug\net10.0\votar.dll
+C:\Users\Vladimir Ascencio\OneDrive\Escritorio\12_votar_condicion\votar\bin\Debug\net10.0\votar.pdb
+C:\Users\Vladimir Ascencio\OneDrive\Escritorio\12_votar_condicion\votar\obj\Debug\net10.0\votar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vladimir Ascencio\OneDrive\Escritorio\12_votar_condicion\votar\obj\Debug\net10.0\votar.AssemblyInfoInputs.cache
+C:\Users\Vladimir Ascencio\OneDrive\Escritorio\12_votar_condicion\votar\obj\Debug\net10.0\votar.AssemblyInfo.cs
+C:\Users\Vladimir Ascencio\OneDrive\Escritorio\12_votar_condicion\votar\obj\Debug\net10.0\votar.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Ascencio\OneDrive\Escritorio\12_votar_condicion\votar\obj\Debug\net10.0\votar.dll
+C:\Users\Vladimir Ascencio\OneDrive\Escritorio\12_votar_condicion\votar\obj\Debug\net10.0\refint\votar.dll
+C:\Users\Vladimir Ascencio\OneDrive\Escritorio\12_votar_condicion\votar\obj\Debug\net10.0\votar.pdb
+C:\Users\Vladimir Ascencio\OneDrive\Escritorio\12_votar_condicion\votar\obj\Debug\net10.0\votar.genruntimeconfig.cache
+C:\Users\Vladimir Ascencio\OneDrive\Escritorio\12_votar_condicion\votar\obj\Debug\net10.0\ref\votar.dll
