@@ -1,0 +1,14 @@
+C:\Users\Vladimir Ascencio\OneDrive\Escritorio\11_condicionales\condicionales\bin\Debug\net10.0\condicionales.exe
+C:\Users\Vladimir Ascencio\OneDrive\Escritorio\11_condicionales\condicionales\bin\Debug\net10.0\condicionales.deps.json
+C:\Users\Vladimir Ascencio\OneDrive\Escritorio\11_condicionales\condicionales\bin\Debug\net10.0\condicionales.runtimeconfig.json
+C:\Users\Vladimir Ascencio\OneDrive\Escritorio\11_condicionales\condicionales\bin\Debug\net10.0\condicionales.dll
+C:\Users\Vladimir Ascencio\OneDrive\Escritorio\11_condicionales\condicionales\bin\Debug\net10.0\condicionales.pdb
+C:\Users\Vladimir Ascencio\OneDrive\Escritorio\11_condicionales\condicionales\obj\Debug\net10.0\condicionales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vladimir Ascencio\OneDrive\Escritorio\11_condicionales\condicionales\obj\Debug\net10.0\condicionales.AssemblyInfoInputs.cache
+C:\Users\Vladimir Ascencio\OneDrive\Escritorio\11_condicionales\condicionales\obj\Debug\net10.0\condicionales.AssemblyInfo.cs
+C:\Users\Vladimir Ascencio\OneDrive\Escritorio\11_condicionales\condicionales\obj\Debug\net10.0\condicionales.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Ascencio\OneDrive\Escritorio\11_condicionales\condicionales\obj\Debug\net10.0\condicionales.dll
+C:\Users\Vladimir Ascencio\OneDrive\Escritorio\11_condicionales\condicionales\obj\Debug\net10.0\refint\condicionales.dll
+C:\Users\Vladimir Ascencio\OneDrive\Escritorio\11_condicionales\condicionales\obj\Debug\net10.0\condicionales.pdb
+C:\Users\Vladimir Ascencio\OneDrive\Escritorio\11_condicionales\condicionales\obj\Debug\net10.0\condicionales.genruntimeconfig.cache
+C:\Users\Vladimir Ascencio\OneDrive\Escritorio\11_condicionales\condicionales\obj\Debug\net10.0\ref\condicionales.dll
