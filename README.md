@@ -36,6 +36,21 @@ Este proyecto está diseñado como práctica de *aprendizaje de repaso en C#*, e
 
 ---
 
+## 💡Crear y ejecutar desde Visual Studio Code
+```Terminal o la terminal de Bash
+# Crear proyectos en Visual Studio Code
+
+# Primero debes crear la carpeta donde estarán los archivos, luego ejecuta
+dotnet new console -o NombreDelProyecto
+
+# Antes de ejecutar, debes ingresar a la carpeta donde esta el archivo Program.cs
+cd NombreCarpeta
+
+# Para ejecutar dicho programa ejecuta
+dotnet run NombreDelProyecto
+
+```
+
 ## ✨ Autor
 
 Vladimir Ascencio – Desarrollador en aprendizaje continuo 🚀
