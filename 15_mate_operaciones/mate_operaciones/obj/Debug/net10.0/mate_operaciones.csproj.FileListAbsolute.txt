@@ -1,0 +1,14 @@
+C:\Users\Vladimir Ascencio\OneDrive\Escritorio\15_mate_operaciones\mate_operaciones\bin\Debug\net10.0\mate_operaciones.exe
+C:\Users\Vladimir Ascencio\OneDrive\Escritorio\15_mate_operaciones\mate_operaciones\bin\Debug\net10.0\mate_operaciones.deps.json
+C:\Users\Vladimir Ascencio\OneDrive\Escritorio\15_mate_operaciones\mate_operaciones\bin\Debug\net10.0\mate_operaciones.runtimeconfig.json
+C:\Users\Vladimir Ascencio\OneDrive\Escritorio\15_mate_operaciones\mate_operaciones\bin\Debug\net10.0\mate_operaciones.dll
+C:\Users\Vladimir Ascencio\OneDrive\Escritorio\15_mate_operaciones\mate_operaciones\bin\Debug\net10.0\mate_operaciones.pdb
+C:\Users\Vladimir Ascencio\OneDrive\Escritorio\15_mate_operaciones\mate_operaciones\obj\Debug\net10.0\mate_operaciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vladimir Ascencio\OneDrive\Escritorio\15_mate_operaciones\mate_operaciones\obj\Debug\net10.0\mate_operaciones.AssemblyInfoInputs.cache
+C:\Users\Vladimir Ascencio\OneDrive\Escritorio\15_mate_operaciones\mate_operaciones\obj\Debug\net10.0\mate_operaciones.AssemblyInfo.cs
+C:\Users\Vladimir Ascencio\OneDrive\Escritorio\15_mate_operaciones\mate_operaciones\obj\Debug\net10.0\mate_operaciones.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Ascencio\OneDrive\Escritorio\15_mate_operaciones\mate_operaciones\obj\Debug\net10.0\mate_operaciones.dll
+C:\Users\Vladimir Ascencio\OneDrive\Escritorio\15_mate_operaciones\mate_operaciones\obj\Debug\net10.0\refint\mate_operaciones.dll
+C:\Users\Vladimir Ascencio\OneDrive\Escritorio\15_mate_operaciones\mate_operaciones\obj\Debug\net10.0\mate_operaciones.pdb
+C:\Users\Vladimir Ascencio\OneDrive\Escritorio\15_mate_operaciones\mate_operaciones\obj\Debug\net10.0\mate_operaciones.genruntimeconfig.cache
+C:\Users\Vladimir Ascencio\OneDrive\Escritorio\15_mate_operaciones\mate_operaciones\obj\Debug\net10.0\ref\mate_operaciones.dll
