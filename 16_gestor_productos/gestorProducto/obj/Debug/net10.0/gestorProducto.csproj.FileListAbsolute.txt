@@ -1,0 +1,14 @@
+C:\Users\Vladimir Ascencio\OneDrive\Escritorio\16_gestor_productos\gestorProducto\bin\Debug\net10.0\gestorProducto.exe
+C:\Users\Vladimir Ascencio\OneDrive\Escritorio\16_gestor_productos\gestorProducto\bin\Debug\net10.0\gestorProducto.deps.json
+C:\Users\Vladimir Ascencio\OneDrive\Escritorio\16_gestor_productos\gestorProducto\bin\Debug\net10.0\gestorProducto.runtimeconfig.json
+C:\Users\Vladimir Ascencio\OneDrive\Escritorio\16_gestor_productos\gestorProducto\bin\Debug\net10.0\gestorProducto.dll
+C:\Users\Vladimir Ascencio\OneDrive\Escritorio\16_gestor_productos\gestorProducto\bin\Debug\net10.0\gestorProducto.pdb
+C:\Users\Vladimir Ascencio\OneDrive\Escritorio\16_gestor_productos\gestorProducto\obj\Debug\net10.0\gestorProducto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vladimir Ascencio\OneDrive\Escritorio\16_gestor_productos\gestorProducto\obj\Debug\net10.0\gestorProducto.AssemblyInfoInputs.cache
+C:\Users\Vladimir Ascencio\OneDrive\Escritorio\16_gestor_productos\gestorProducto\obj\Debug\net10.0\gestorProducto.AssemblyInfo.cs
+C:\Users\Vladimir Ascencio\OneDrive\Escritorio\16_gestor_productos\gestorProducto\obj\Debug\net10.0\gestorProducto.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Ascencio\OneDrive\Escritorio\16_gestor_productos\gestorProducto\obj\Debug\net10.0\gestorProducto.dll
+C:\Users\Vladimir Ascencio\OneDrive\Escritorio\16_gestor_productos\gestorProducto\obj\Debug\net10.0\refint\gestorProducto.dll
+C:\Users\Vladimir Ascencio\OneDrive\Escritorio\16_gestor_productos\gestorProducto\obj\Debug\net10.0\gestorProducto.pdb
+C:\Users\Vladimir Ascencio\OneDrive\Escritorio\16_gestor_productos\gestorProducto\obj\Debug\net10.0\gestorProducto.genruntimeconfig.cache
+C:\Users\Vladimir Ascencio\OneDrive\Escritorio\16_gestor_productos\gestorProducto\obj\Debug\net10.0\ref\gestorProducto.dll
