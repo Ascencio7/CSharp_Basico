@@ -19,6 +19,7 @@ Este repositorio contiene *ejercicios de JavaScript* que facilitan los primeros 
 ✅ Condicionales<br>
 ✅ Bucles<br>
 ✅ POO<br>
+✅ CRUD desde la consola<br>
 ✅ Formularios<br>
 
 ---
