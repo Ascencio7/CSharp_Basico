@@ -1,0 +1,14 @@
+C:\Users\Vladimir Ascencio\OneDrive\Escritorio\18_Area_PI\areaCirculo\bin\Debug\net10.0\areaCirculo.exe
+C:\Users\Vladimir Ascencio\OneDrive\Escritorio\18_Area_PI\areaCirculo\bin\Debug\net10.0\areaCirculo.deps.json
+C:\Users\Vladimir Ascencio\OneDrive\Escritorio\18_Area_PI\areaCirculo\bin\Debug\net10.0\areaCirculo.runtimeconfig.json
+C:\Users\Vladimir Ascencio\OneDrive\Escritorio\18_Area_PI\areaCirculo\bin\Debug\net10.0\areaCirculo.dll
+C:\Users\Vladimir Ascencio\OneDrive\Escritorio\18_Area_PI\areaCirculo\bin\Debug\net10.0\areaCirculo.pdb
+C:\Users\Vladimir Ascencio\OneDrive\Escritorio\18_Area_PI\areaCirculo\obj\Debug\net10.0\areaCirculo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vladimir Ascencio\OneDrive\Escritorio\18_Area_PI\areaCirculo\obj\Debug\net10.0\areaCirculo.AssemblyInfoInputs.cache
+C:\Users\Vladimir Ascencio\OneDrive\Escritorio\18_Area_PI\areaCirculo\obj\Debug\net10.0\areaCirculo.AssemblyInfo.cs
+C:\Users\Vladimir Ascencio\OneDrive\Escritorio\18_Area_PI\areaCirculo\obj\Debug\net10.0\areaCirculo.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Ascencio\OneDrive\Escritorio\18_Area_PI\areaCirculo\obj\Debug\net10.0\areaCirculo.dll
+C:\Users\Vladimir Ascencio\OneDrive\Escritorio\18_Area_PI\areaCirculo\obj\Debug\net10.0\refint\areaCirculo.dll
+C:\Users\Vladimir Ascencio\OneDrive\Escritorio\18_Area_PI\areaCirculo\obj\Debug\net10.0\areaCirculo.pdb
+C:\Users\Vladimir Ascencio\OneDrive\Escritorio\18_Area_PI\areaCirculo\obj\Debug\net10.0\areaCirculo.genruntimeconfig.cache
+C:\Users\Vladimir Ascencio\OneDrive\Escritorio\18_Area_PI\areaCirculo\obj\Debug\net10.0\ref\areaCirculo.dll
