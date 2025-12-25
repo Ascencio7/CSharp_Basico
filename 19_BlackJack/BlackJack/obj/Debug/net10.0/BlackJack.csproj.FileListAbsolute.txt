@@ -1,0 +1,14 @@
+C:\Users\Vladimir Ascencio\OneDrive\Escritorio\19_BlackJack\BlackJack\bin\Debug\net10.0\BlackJack.exe
+C:\Users\Vladimir Ascencio\OneDrive\Escritorio\19_BlackJack\BlackJack\bin\Debug\net10.0\BlackJack.deps.json
+C:\Users\Vladimir Ascencio\OneDrive\Escritorio\19_BlackJack\BlackJack\bin\Debug\net10.0\BlackJack.runtimeconfig.json
+C:\Users\Vladimir Ascencio\OneDrive\Escritorio\19_BlackJack\BlackJack\bin\Debug\net10.0\BlackJack.dll
+C:\Users\Vladimir Ascencio\OneDrive\Escritorio\19_BlackJack\BlackJack\bin\Debug\net10.0\BlackJack.pdb
+C:\Users\Vladimir Ascencio\OneDrive\Escritorio\19_BlackJack\BlackJack\obj\Debug\net10.0\BlackJack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vladimir Ascencio\OneDrive\Escritorio\19_BlackJack\BlackJack\obj\Debug\net10.0\BlackJack.AssemblyInfoInputs.cache
+C:\Users\Vladimir Ascencio\OneDrive\Escritorio\19_BlackJack\BlackJack\obj\Debug\net10.0\BlackJack.AssemblyInfo.cs
+C:\Users\Vladimir Ascencio\OneDrive\Escritorio\19_BlackJack\BlackJack\obj\Debug\net10.0\BlackJack.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Ascencio\OneDrive\Escritorio\19_BlackJack\BlackJack\obj\Debug\net10.0\BlackJack.dll
+C:\Users\Vladimir Ascencio\OneDrive\Escritorio\19_BlackJack\BlackJack\obj\Debug\net10.0\refint\BlackJack.dll
+C:\Users\Vladimir Ascencio\OneDrive\Escritorio\19_BlackJack\BlackJack\obj\Debug\net10.0\BlackJack.pdb
+C:\Users\Vladimir Ascencio\OneDrive\Escritorio\19_BlackJack\BlackJack\obj\Debug\net10.0\BlackJack.genruntimeconfig.cache
+C:\Users\Vladimir Ascencio\OneDrive\Escritorio\19_BlackJack\BlackJack\obj\Debug\net10.0\ref\BlackJack.dll
