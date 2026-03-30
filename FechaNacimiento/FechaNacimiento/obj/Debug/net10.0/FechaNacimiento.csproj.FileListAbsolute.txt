@@ -1,0 +1,14 @@
+C:\Users\Vladimir Ascencio\Downloads\FechaNacimiento\FechaNacimiento\bin\Debug\net10.0\FechaNacimiento.exe
+C:\Users\Vladimir Ascencio\Downloads\FechaNacimiento\FechaNacimiento\bin\Debug\net10.0\FechaNacimiento.deps.json
+C:\Users\Vladimir Ascencio\Downloads\FechaNacimiento\FechaNacimiento\bin\Debug\net10.0\FechaNacimiento.runtimeconfig.json
+C:\Users\Vladimir Ascencio\Downloads\FechaNacimiento\FechaNacimiento\bin\Debug\net10.0\FechaNacimiento.dll
+C:\Users\Vladimir Ascencio\Downloads\FechaNacimiento\FechaNacimiento\bin\Debug\net10.0\FechaNacimiento.pdb
+C:\Users\Vladimir Ascencio\Downloads\FechaNacimiento\FechaNacimiento\obj\Debug\net10.0\FechaNacimiento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vladimir Ascencio\Downloads\FechaNacimiento\FechaNacimiento\obj\Debug\net10.0\FechaNacimiento.AssemblyInfoInputs.cache
+C:\Users\Vladimir Ascencio\Downloads\FechaNacimiento\FechaNacimiento\obj\Debug\net10.0\FechaNacimiento.AssemblyInfo.cs
+C:\Users\Vladimir Ascencio\Downloads\FechaNacimiento\FechaNacimiento\obj\Debug\net10.0\FechaNacimiento.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Ascencio\Downloads\FechaNacimiento\FechaNacimiento\obj\Debug\net10.0\FechaNacimiento.dll
+C:\Users\Vladimir Ascencio\Downloads\FechaNacimiento\FechaNacimiento\obj\Debug\net10.0\refint\FechaNacimiento.dll
+C:\Users\Vladimir Ascencio\Downloads\FechaNacimiento\FechaNacimiento\obj\Debug\net10.0\FechaNacimiento.pdb
+C:\Users\Vladimir Ascencio\Downloads\FechaNacimiento\FechaNacimiento\obj\Debug\net10.0\FechaNacimiento.genruntimeconfig.cache
+C:\Users\Vladimir Ascencio\Downloads\FechaNacimiento\FechaNacimiento\obj\Debug\net10.0\ref\FechaNacimiento.dll
